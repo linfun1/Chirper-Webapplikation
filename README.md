@@ -1,6 +1,6 @@
 # Chirper-Webapplikation
 
-1. Use-Case
+## 1. Use-Case
    
 Die Nachrichten-Applikation ermöglicht es, Textnachrichten zu erstellen und anzuzeigen, Nachrichten gezielt nach Hashtags und Nutzern zu filtern und so relevante Inhalte schnell zu finden. Sie bietet eine einfache Möglichkeit zur Verwaltung und Organisation von Kurznachrichten für kleine Communities oder Teams und orientiert sich im Stil an Twitter, um eine vertraute und intuitive Nutzung zu gewährleisten.
 
