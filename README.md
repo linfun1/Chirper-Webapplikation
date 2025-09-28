@@ -6,27 +6,25 @@ Die Nachrichten-Applikation ermöglicht es, Textnachrichten zu erstellen und anz
 
 ## 2. Technologien und Tools
    
- •	Javascript: Die Hauptprogrammiersprache für die Erstellung der Applikation.
+ - Javascript: Die Hauptprogrammiersprache für die Erstellung der Applikation.
  
- •	Vue.js: Das Framework für verschiedene Funktionalitäten (bspw. das Filtern oder Erstellen von Nachrichten)
+ -	Vue.js: Das Framework für verschiedene Funktionalitäten (bspw. das Filtern oder Erstellen von Nachrichten)
  
- •	Node.js: Die Laufzeitumgebung zum Ausführen des Javascript-Codes
+ -	Node.js: Die Laufzeitumgebung zum Ausführen des Javascript-Codes
 
 ## 3. Installation und Setup
    
 Voraussetzungen:
 
- •	Das Programm ist unter Anwendung von Visual Studio Code entstanden
- 
-  o	Vue.js muss installiert sein
-  
-  o	Node.js muss installiert sein.
+- Das Programm ist unter Anwendung von Visual Studio Code entstanden
+   - Vue.js muss installiert sein
+   - Node.js muss installiert sein.
 
 Installation:
 
  1.	Visual Studio Code muss installiert werden
     
- 3.	Vue.js und Node.js müssen installiert werden
+ 2.	Vue.js und Node.js müssen installiert werden
 
 ## 4. Verwendung
    
