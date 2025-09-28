@@ -4,7 +4,7 @@
    
 Die Nachrichten-Applikation ermöglicht es, Textnachrichten zu erstellen und anzuzeigen, Nachrichten gezielt nach Hashtags und Nutzern zu filtern und so relevante Inhalte schnell zu finden. Sie bietet eine einfache Möglichkeit zur Verwaltung und Organisation von Kurznachrichten für kleine Communities oder Teams und orientiert sich im Stil an Twitter, um eine vertraute und intuitive Nutzung zu gewährleisten.
 
-2. Technologien und Tools
+## 2. Technologien und Tools
    
  •	Javascript: Die Hauptprogrammiersprache für die Erstellung der Applikation.
  
@@ -12,7 +12,7 @@ Die Nachrichten-Applikation ermöglicht es, Textnachrichten zu erstellen und anz
  
  •	Node.js: Die Laufzeitumgebung zum Ausführen des Javascript-Codes
 
-3. Installation und Setup
+## 3. Installation und Setup
    
 Voraussetzungen:
 
@@ -28,7 +28,7 @@ Installation:
     
  3.	Vue.js und Node.js müssen installiert werden
 
-4. Verwendung
+## 4. Verwendung
    
 Textnachrichten erstellen:
 
@@ -58,7 +58,7 @@ Nachrichten filtern nach Hashtags:
 
  •	Die Applikation ermöglicht es die Nachrichten nach bestimmten Hashtags zu filtern, indem man die gesuchten Hashtags oben rechts eingibt. (siehe Bild 1)
  
-5. Funktionsweise
+## 5. Funktionsweise
    
  •	Die Applikation lädt die Benutzeroberfläche
  
@@ -66,7 +66,7 @@ Nachrichten filtern nach Hashtags:
  
  •	Es ist möglich die geschriebenen Nachrichten nach bestimmten Kritereien zu filtern
 
-6. Zukunft und Erweiterungen
+## 6. Zukunft und Erweiterungen
    
 Erweiterungen:
 
